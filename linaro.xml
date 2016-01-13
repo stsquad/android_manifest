@@ -31,6 +31,6 @@
   <project path="external/drm_hwcomposer" name="drm_hwcomposer" revision="android-m" remote="robh" groups="default" />
 
   <remove-project path="external/libdrm" name="platform/external/libdrm" />
-  <project path="external/libdrm" name="mesa/drm" revision="master" remote="freedesktop" groups="default" />
+  <project path="external/libdrm" name="libdrm" revision="master" remote="robh" groups="default" />
 
 </manifest>
